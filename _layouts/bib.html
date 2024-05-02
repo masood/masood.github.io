@@ -150,6 +150,13 @@
             <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
             {%- endif %}
           {%- endif %}
+          {%- if entry.prepub %}
+            {% if entry.prepub contains '://' -%}
+            <a href="{{ entry.prepub }}" class="btn btn-sm z-depth-0" role="button">Preprint</a>
+            {%- else -%}
+            <a href="{{ entry.prepub | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Preprint</a>
+            {%- endif %}
+          {%- endif %}
           {%- if entry.supp %}
             {% if entry.supp contains '://' -%}
             <a href="{{ entry.supp }}" class="btn btn-sm z-depth-0" role="button">Supp</a>
