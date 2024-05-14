@@ -1,34 +1,35 @@
+"Kanich":
+  - firstname: ["Chris", "C."]
+    url: https://www.cs.uic.edu/~ckanich/
+
+"Polakis": 
+  - firstname: ["Jason", "J"]
+    url: https://www.cs.uic.edu/~polakis/
+
+"Aviv":
+  - firstname: ["Adam", "Adam J."]
+    url: https://adamaviv.com/
+
+"Nikiforakis":
+  - firstname: ["Nick", "N."]
+    url: https://securitee.org/
+
 "Ghasemisharif":
   - firstname: ["Mohammad", "M."]
     url: https://moebit.com/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Balash":
+  - firstname: ["David", "David G."]
+    url: https://davidbalash.github.io/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Kodwani":
+  - firstname: ["Monica", "M."]
+    url: https://www.linkedin.com/in/monicakodwani/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Calderonio":
+  - firstname: ["Giuseppe", "G."]
+    url: https://www.linkedin.com/in/giuseppe-calderonio/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
-
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
-
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Chitale":
+  - firstname: ["Binoy", "B."]
+    url: https://www.linkedin.com/in/binoychitale/
