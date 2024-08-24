@@ -14,6 +14,14 @@
   - firstname: ["Nick", "N."]
     url: https://securitee.org/
 
+"Snyder":
+  - firstname: ["Peter", "Pete", "P."]
+    url: https://www.peteresnyder.com/
+  
+"Haddadi":
+  - firstname: ["Hamed", "H."]
+    url: https://haddadi.github.io/about/
+
 "Ghasemisharif":
   - firstname: ["Mohammad", "M."]
     url: https://moebit.com/
