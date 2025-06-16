@@ -1,34 +1,51 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Kanich":
+  - firstname: ["Chris", "C."]
+    url: https://www.cs.uic.edu/~ckanich/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Polakis": 
+  - firstname: ["Jason", "J"]
+    url: https://www.cs.uic.edu/~polakis/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Aviv":
+  - firstname: ["Adam", "Adam J."]
+    url: https://adamaviv.com/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Nikiforakis":
+  - firstname: ["Nick", "N."]
+    url: https://securitee.org/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Solomos":
+  - firstname: ["Kostas", "Konstantinos", "K."]
+    url: https://kostassolo.github.io/
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Snyder":
+  - firstname: ["Peter", "Pete", "P."]
+    url: https://www.peteresnyder.com/
+  
+"Haddadi":
+  - firstname: ["Hamed", "H."]
+    url: https://haddadi.github.io/about/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Ghasemisharif":
+  - firstname: ["Mohammad", "M."]
+    url: https://moebit.com/
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Balash":
+  - firstname: ["David", "David G."]
+    url: https://davidbalash.github.io/
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Kodwani":
+  - firstname: ["Monica", "M."]
+    url: https://www.linkedin.com/in/monicakodwani/
+
+"Calderonio":
+  - firstname: ["Giuseppe", "G."]
+    url: https://www.linkedin.com/in/giuseppe-calderonio/
+
+"Paloscia":
+  - firstname: ["Claudio", "C."]
+    url: https://www.linkedin.com/in/claudio-paloscia/
+
+"Chitale":
+  - firstname: ["Binoy", "B."]
+    url: https://www.linkedin.com/in/binoychitale/

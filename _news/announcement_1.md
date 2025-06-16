@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: Oct 2022
 inline: true
-related_posts: false
 ---
 
-A simple inline announcement.
+Paper on evaluating browser mechanisms for tracking vectors was accepted at NDSS 2023.
