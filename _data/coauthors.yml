@@ -2,7 +2,7 @@
   - firstname: ["Chris", "C."]
     url: https://www.cs.uic.edu/~ckanich/
 
-"Polakis": 
+"Polakis":
   - firstname: ["Jason", "J"]
     url: https://www.cs.uic.edu/~polakis/
 
@@ -21,7 +21,7 @@
 "Snyder":
   - firstname: ["Peter", "Pete", "P."]
     url: https://www.peteresnyder.com/
-  
+
 "Haddadi":
   - firstname: ["Hamed", "H."]
     url: https://haddadi.github.io/about/
