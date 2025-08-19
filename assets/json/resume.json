@@ -44,6 +44,11 @@
   ],
   "publications": [
     {
+      "name": "Vault Raider: Stealthy UI-based Attacks Against Password Managers in Desktop Environments",
+      "publisher": "NDSS",
+      "releaseDate": "2026"
+    },
+    {
       "name": "Lost in Translation: Exploring the Risks of Web-to-Cross-platform Application Migration",
       "publisher": "PETS",
       "releaseDate": "2025",
