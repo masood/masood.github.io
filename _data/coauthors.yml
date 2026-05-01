@@ -3,7 +3,7 @@
     url: https://www.cs.uic.edu/~ckanich/
 
 "Polakis":
-  - firstname: ["Jason", "J"]
+  - firstname: ["Jason", "J."]
     url: https://www.cs.uic.edu/~polakis/
 
 "Aviv":
@@ -53,3 +53,7 @@
 "Chitale":
   - firstname: ["Binoy", "B."]
     url: https://www.linkedin.com/in/binoychitale/
+
+"Chauhan":
+  - firstname: ["Jyotirmay", "J."]
+    url: https://www.linkedin.com/in/jchauhn/

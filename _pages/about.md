@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate, UIC
+subtitle: Senior Staff Security Researcher, Palo Alto Networks
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address:
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -19,6 +19,6 @@ announcements:
   limit: 3 # leave blank to include all the news in the `_news` folder
 ---
 
-I am a PhD Candidate in the Department of Computer Science at the [University of Illinois Chicago](https://uic.edu). I am advised by [Chris Kanich](https://www.cs.uic.edu/~ckanich/) and [Jason Polakis](https://www.cs.uic.edu/~polakis/).
+I am a Senior Staff Security Researcher at [Palo Alto Networks](https://www.paloaltonetworks.com). I am also wrapping up my PhD at the [University of Illinois Chicago](https://uic.edu) where I am advised by [Chris Kanich](https://www.cs.uic.edu/~ckanich/) and [Jason Polakis](https://www.cs.uic.edu/~polakis/).
 
-My research focuses on evaluating the security and privacy mechanisms of web browsers and web applications. My work has resulted in the discovery of several practical privacy flaws that stem from the design and implementation of major frameworks and mechanisms. Through my work I aim to assist developers and researchers in identifying the privacy implications of their deployments for end users, and help them develop robust countermeasures.
+My PhD research focused on evaluating the security and privacy mechanisms of web browsers and web applications. My work resulted in the discovery of several practical privacy flaws that stem from the design and implementation of major frameworks and mechanisms. 

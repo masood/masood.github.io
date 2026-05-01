@@ -34,7 +34,22 @@ body.sticky-bottom-footer {
 // Profile
 .profile {
   img {
+    // Keep the profile photo from taking over the page, but don't distort it.
     width: 100%;
+    max-width: 220px;
+    height: auto;
+  }
+
+  // When using `rounded-circle` for profile photos, force a square crop so the
+  // circle doesn't become an oval on non-square source images.
+  img.rounded-circle {
+    // Fill available width (up to max), but keep a square box.
+    max-width: 220px;
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    height: auto !important;
+    object-fit: cover;
+    border-radius: 50%;
   }
 }
 
