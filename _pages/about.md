@@ -21,4 +21,4 @@ announcements:
 
 I am a Senior Staff Security Researcher at [Palo Alto Networks](https://www.paloaltonetworks.com). I am also wrapping up my PhD at the [University of Illinois Chicago](https://uic.edu) where I am advised by [Chris Kanich](https://www.cs.uic.edu/~ckanich/) and [Jason Polakis](https://www.cs.uic.edu/~polakis/).
 
-My PhD research focused on evaluating the security and privacy mechanisms of web browsers and web applications. My work resulted in the discovery of several practical privacy flaws that stem from the design and implementation of major frameworks and mechanisms. 
+My PhD research focused on evaluating the security and privacy mechanisms of web browsers and web applications. My work resulted in the discovery of several practical privacy flaws that stem from the design and implementation of major frameworks and mechanisms.
