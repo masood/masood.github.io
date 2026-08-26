@@ -19,6 +19,6 @@ announcements:
   limit: 3 # leave blank to include all the news in the `_news` folder
 ---
 
-I am a Senior Staff Security Researcher at [Palo Alto Networks](https://www.paloaltonetworks.com). I am also wrapping up my PhD at the [University of Illinois Chicago](https://uic.edu) where I am advised by [Chris Kanich](https://www.cs.uic.edu/~ckanich/) and [Jason Polakis](https://www.cs.uic.edu/~polakis/).
+I am a Senior Staff Security Researcher at [Palo Alto Networks](https://www.paloaltonetworks.com), where I am part of the research team working on DNS and IP security. My current research takes a measurement-driven approach to Internet infrastructure abuse: evaluating how well detection mechanisms actually perform in practice, and understanding how malicious activity emerges, shifts, and decays over time.
 
-My PhD research focused on evaluating the security and privacy mechanisms of web browsers and web applications. My work resulted in the discovery of several practical privacy flaws that stem from the design and implementation of major frameworks and mechanisms.
+I received my PhD from the [University of Illinois Chicago](https://uic.edu), where I was advised by [Chris Kanich](https://www.cs.uic.edu/~ckanich/) and [Jason Polakis](https://www.cs.uic.edu/~polakis/). My PhD research focused on evaluating the security and privacy mechanisms of web browsers and web applications, and resulted in the discovery of several practical privacy flaws that stem from the design and implementation of major frameworks and mechanisms.
